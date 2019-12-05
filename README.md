@@ -1,6 +1,6 @@
 # 파이썬 국민청원 스크래핑 (python blue-house petitions scraping)
 - 참고링크 중 "국민청원 데이터셋 CSV"의 내용을 토대로 수정하여 작성
-- 1건당 1-2초(google colab에서는 더 느리고 시간이 지날수록 많이 느려짐, 로컬에서 실행하길 권장함)
+- 1건당 1-2초(google colab에서 더 느림, 실 사용은 로컬을 권장함)
 
 ## 참고:
   - [청와대 국민청원 https://www1.president.go.kr/petitions](https://www1.president.go.kr/petitions)
